@@ -4,7 +4,7 @@ Websites for you and your projects!
 
 Do it like this:
 
-https://pages.github.com/#project-site
+https://pages.github.com
 
 After that run it and be happy:
 
